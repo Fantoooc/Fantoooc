@@ -8,7 +8,7 @@ Env           - <a href="https://github.com/hyprwm/hyprland">Hyprland</a> + <a h
 Browser       - <a href="https://github.com/imputnet/helium">Helium</a>
 File manager  - <a href="https://github.com/lxde/pcmanfm">PCManFM</a>
 Code Editor   - <a href="https://codeberg.org/GramEditor/gram">Gram</a>
-Telegram Fork - <a href="https://github.com/exteraSquad/exteraGram">exteraGram</a> (sources closed for now)  
+Telegram Fork - <a href="https://github.com/exteraSquad/exteraGram">exteraGram</a>
 </pre>
 
 ![snake svg](https://github.com/Fantoooc/Fantoooc/blob/output/github-contribution-grid-snake-dark.svg)
